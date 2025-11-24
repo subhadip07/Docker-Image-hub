@@ -1,1 +1,1 @@
-### This project show how to work with github action and Access the docker hub using Personal Access Token
+### This demo project that shows how to work with github actions, Flask App and Access the docker hub using Personal Access Token.
